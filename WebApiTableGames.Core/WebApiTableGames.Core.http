@@ -1,0 +1,28 @@
+@url = http://localhost:5091
+
+GET {{url}}/tableGames/list/
+Accept: application/json
+###
+
+POST {{url}}/tableGames/add/
+Content-Type: application/json
+
+{
+  "Name": "test",
+  "Publisher": "test",
+  "ReleaseYear": "test"
+}
+###
+
+DELETE {{url}}/tableGames/delete/id/00000000-0000-0000-0000-000000000001
+###
+
+PUT {{url}}/tableGames/update/id/00000000-0000-0000-0000-000000000001
+Content-Type: application/json
+
+{
+  "Name": "Changed",
+  "Publisher": "Changed2",
+  "ReleaseYear": "Changed"
+}
+###

@@ -1,0 +1,58 @@
+[
+  {
+    "Id": "8d00315a-03b7-49d0-b0b2-a196902e6d1c",
+    "Name": "Catan",
+    "Publisher": "Kosmos",
+    "ReleaseYear": "1995",
+    "IsDeleted": true
+  },
+  {
+    "Id": "1312d6e3-0384-4121-8d0d-f86abe7e7b9e",
+    "Name": "Ticket to Ride",
+    "Publisher": "Days of Wonder",
+    "ReleaseYear": "2004",
+    "IsDeleted": false
+  },
+  {
+    "Id": "31a106a9-33b5-4291-9f73-e2166368a1c0",
+    "Name": "Carcassonne",
+    "Publisher": "Hans im Gluck",
+    "ReleaseYear": "2000",
+    "IsDeleted": false
+  },
+  {
+    "Id": "7d5b0055-3d44-4eee-8c23-75b4dd7e8d83",
+    "Name": "7 Wonders",
+    "Publisher": "Asmodee",
+    "ReleaseYear": "2010",
+    "IsDeleted": false
+  },
+  {
+    "Id": "43c201a3-f1c4-4939-bc4a-180360de8f52",
+    "Name": "test",
+    "Publisher": "test",
+    "ReleaseYear": "test",
+    "IsDeleted": false
+  },
+  {
+    "Id": "ce529886-4a72-4ca9-9d99-0faf7a10379b",
+    "Name": "test",
+    "Publisher": "test",
+    "ReleaseYear": "test",
+    "IsDeleted": true
+  },
+  {
+    "Id": "9743c4ec-91f4-4dd5-baa1-2eb09c1f10f6",
+    "Name": "Terraforming Mars",
+    "Publisher": "FryxGames",
+    "ReleaseYear": "2016",
+    "IsDeleted": true
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Name": "Changed",
+    "Publisher": "Changed2",
+    "ReleaseYear": "Changed",
+    "IsDeleted": true
+  }
+]
